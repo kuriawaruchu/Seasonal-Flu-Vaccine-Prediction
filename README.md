@@ -47,6 +47,8 @@ There are four main moddels that were used in this project:
 3. Random forests;
 4. XGBoost Algorithim.
 
+![all models roc curve](images/all_roc_curve.png)
+
 # Conclusion
 **Model Evaluation Summary**
 The Random Forest Model (best_model3) has demonstrated commendable performance in predicting the uptake of the seasonal flu vaccine. It has strong evaluation metrics and an ROC curve with strong discriminatory power. A better balance on the data may give more promising results.
