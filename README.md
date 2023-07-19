@@ -1,5 +1,4 @@
 # **Predicting Uptake of Seasonal Flu Vaccine**
-
 **Authors:**
 1. Catherine Gakii
 2. Waruchu Kuria
