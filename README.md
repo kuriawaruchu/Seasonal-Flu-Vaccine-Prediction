@@ -2,7 +2,7 @@
 **Authors:**
 1. Catherine Gakii
 2. Waruchu Kuria
-3. Michelle Mwendwa
+3. Michelle Mwendwa 
 4. Cleophas Opati
 5. Felix Awino
 6. Steven Kalungu
