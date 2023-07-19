@@ -6,7 +6,7 @@
 4. Cleophas Opati
 5. Felix Awino
 6. Steven Kalungu
-7. Tobias Ng'ong'a
+7. Tobias Ng'ong'a.
 
 # **Introduction**
 
