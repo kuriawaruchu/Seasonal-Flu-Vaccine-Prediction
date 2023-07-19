@@ -60,7 +60,7 @@ The Random Forest Model (best_model3) has demonstrated commendable performance i
 
 **For further improvements:**
 1. Conduct more feature engineering to get more insight on features influencing uptake of the vaccine.
-2. Using more recent data to create predictions, especially after the recent Covid-19 pandemic, may provide better outlooks on the results
+2. Using more recent data to create predictions, especially after the recent Covid-19 pandemic, may provide better outlooks on the results.
 
 
 
