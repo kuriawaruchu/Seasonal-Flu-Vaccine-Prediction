@@ -4,7 +4,7 @@
 2. Waruchu Kuria
 3. Michelle Mwendwa 
 4. Cleophas Opati 
-5. Felix Awino
+5. Felix Awino  
 6. Steven Kalungu
 7. Tobias Ng'ong'a.
 
